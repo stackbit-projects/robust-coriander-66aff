@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Try Free
         url: /pricing
-        style: primary
+        style: link
       - label: lorem-ipsum
         url: '#'
         style: link
